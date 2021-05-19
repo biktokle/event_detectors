@@ -77,7 +77,7 @@ class Detector(server.Server):
 
 
 # Saved model path
-PATH_TO_SAVED_MODEL = r'C:\Users\viktor_koukouliev\models\research\cell_detector_igraph/saved_model'
+PATH_TO_SAVED_MODEL = r'.\cell_detector_igraph\saved_model'
 
 
 def get_bounding_boxes(image,
