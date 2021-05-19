@@ -1,0 +1,1 @@
+This is a mock detector, it just randomly chooses coordinates and returns them.
